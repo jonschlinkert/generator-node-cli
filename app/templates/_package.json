@@ -21,14 +21,10 @@
     }
   ],
   "keywords": [
-    "docs",
-    "documentation",
-    "generate",
-    "generator",
-    "markdown",
-    "templates",
-    "verb"
+    "cli",
+    "command line"
   ],
+  "preferGlobal": true,
   "bin": {
     "<%= cliname %>": "./bin/<%= cliname %>"
   },

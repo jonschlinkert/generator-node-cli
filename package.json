@@ -1,6 +1,6 @@
 {
   "name": "generator-node-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate a command line application for node.js.",
   "homepage": "https://github.com/jonschlinkert/generator-node-cli",
   "author": {

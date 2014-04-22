@@ -124,7 +124,7 @@ CliGenerator.prototype.askFor = function askFor() {
 
 /**
  * Check for existing files so this can be
- * run on existing projects.
+ * run on existing projects
  */
 
 CliGenerator.prototype.app = function app() {
