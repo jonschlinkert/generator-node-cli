@@ -134,10 +134,7 @@ CliGenerator.prototype.app = function app() {
 
 CliGenerator.prototype.readme = function readme() {
   if(this.verb) {
-    this.directory('docs', 'docs', true);
-  }
-  if (!fs.existsSync('README.md')) {
-    this.template('README.md', 'README.md');
+    this.template('verbrc.md', '.verbrc.md');
   }
 };
 
